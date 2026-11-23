@@ -1,0 +1,29 @@
+{
+  "serie": "SERIE A | EP. 01",
+  "instagram": {
+    "durata": 24.7,
+    "cartelli": [
+      [0.0, 2.9, "TU,\nIN COPERTINA"],
+      [2.9, 4.4, "1 FOTO"],
+      [4.4, 6.5, "→ COPERTINA DA VIDEOGIOCO"],
+      [6.5, 9.1, "I TUOI AMICI NEI RIQUADRI"],
+      [9.1, 12.7, "STAMPA UV"],
+      [12.7, 13.8, "GUARDA LA LUCE"],
+      [13.8, 17.4, "RILIEVO VERO"],
+      [17.4, 19.9, "SPEDIAMO IN TUTTA ITALIA"],
+      [19.9, 24.7, "SCRIVI \"PREVENTIVO\""]
+    ]
+  },
+  "tiktok": {
+    "durata": 14.2,
+    "cartelli": [
+      [0.0, 2.9, "STILE GTA VI, FACCIA TUA"],
+      [2.9, 4.4, "1 FOTO"],
+      [4.4, 6.2, "→ COPERTINA"],
+      [6.2, 7.6, "STAMPA UV"],
+      [7.6, 9.4, "GUARDA LA LUCE"],
+      [9.4, 11.3, "RILIEVO VERO"],
+      [11.3, 14.2, "DI CHI È\nLA PROSSIMA?"]
+    ]
+  }
+}
