@@ -63,7 +63,7 @@ python3 tools/render.py video girato.mp4 tiktok    --voce voce_tt.m4a
 
 - [ ] Nel video **non** ci sono logo, scritte o personaggi ufficiali del gioco.
 - [ ] Consenso scritto della persona ritratta sulla cover.
-- [ ] Segnaposto compilati nei testi: `{{numero WhatsApp}}`, `{{data}}` (ultimo giorno per Natale), `{{nome}}` per i gruppi.
+- [x] Numero WhatsApp (329 690 4627), firma "Ingly Design" e nessuna scadenza d'ordine: già inseriti nei testi.
 - [ ] Automazione **PREVENTIVO** attiva su Instagram, con il messaggio in `~/.claude/ingly-growth/funnel-automation.md` e il numero WhatsApp.
 - [ ] Il testo per i gruppi maker descrive bene la vostra tecnica di rilievo (altrimenti correggetelo).
 - [ ] Il numero di episodio è giusto (il kit usa "EP. 01").

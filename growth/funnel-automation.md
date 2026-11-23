@@ -14,8 +14,8 @@ Le parole chiave valgono sia nei commenti sia nei DM e non distinguono maiuscole
 | Parola | Quando la usi | Cosa riceve chi la scrive | Destinazione | Pubblico |
 |---|---|---|---|---|
 | **FOTO** | Serie A, regali, simulatore, post fissato 3 | Link al simulatore "Prova la tua foto incisa" + link al generatore STL di litofanie | `{{url simulatore}}?utm_source=instagram&utm_medium=dm&utm_campaign=foto` | Privati |
-| **XTOOL** | Serie C, Serie B quando la macchina è protagonista, Demo Room | Info su Demo Room (Palermo, Sud Italia), modelli disponibili, consulenza, assistenza, link per prenotare | `{{link prenotazione demo}}` oppure WhatsApp `{{numero}}` | Maker, aziende |
-| **PREVENTIVO** | Serie D, lavori B2B, gadget, targhe, piccoli lotti | Contatto diretto WhatsApp con messaggio precompilato | `https://wa.me/{{numero senza +}}?text=Ciao%20INGLY%2C%20vorrei%20un%20preventivo` | Aziende, privati |
+| **XTOOL** | Serie C, Serie B quando la macchina è protagonista, Demo Room | Info su Demo Room (Palermo, Sud Italia), modelli disponibili, consulenza, assistenza, link per prenotare | `{{link prenotazione demo}}` oppure WhatsApp 329 690 4627 | Maker, aziende |
+| **PREVENTIVO** | Serie D, lavori B2B, gadget, targhe, piccoli lotti | Contatto diretto WhatsApp con messaggio precompilato | `https://wa.me/393296904627?text=Ciao%20INGLY%2C%20vorrei%20un%20preventivo` | Aziende, privati |
 
 **Parole già usate in precedenza** (le reindirizzo per non perdere nessuno):
 - **LASER** → stesso messaggio di FOTO;
@@ -41,7 +41,7 @@ Hai un dubbio su una foto? Mandacela qui: ti diciamo come verrà.
 Ciao! Siamo host ufficiali xTool Squad con Demo Room in Sicilia: puoi vedere le macchine lavorare dal vivo, anche con il tuo materiale.
 
 Prenota la demo qui: {{link prenotazione demo}}
-Oppure scrivici su WhatsApp: {{numero WhatsApp}}
+Oppure scrivici su WhatsApp: 329 690 4627
 
 Dimmi solo che macchina ti interessa e per cosa vorresti usarla.
 ```
@@ -51,7 +51,7 @@ Dimmi solo che macchina ti interessa e per cosa vorresti usarla.
 ```
 Ciao! Per il preventivo ci serve sapere: cosa vuoi personalizzare, quanti pezzi, materiale e misura (anche indicativi).
 
-Scrivici direttamente su WhatsApp, il messaggio è già pronto: {{link wa.me}}
+Scrivici direttamente su WhatsApp, il messaggio è già pronto: https://wa.me/393296904627?text=Ciao%20INGLY%2C%20vorrei%20un%20preventivo
 ```
 
 **Risposta pubblica al commento** (a rotazione, per non sembrare un bot):
@@ -84,7 +84,7 @@ CONVERSAZIONE   parola chiave (FOTO / XTOOL / PREVENTIVO), domanda nei commenti
     ↓
 PROVA           simulatore, generatore STL, Demo Room
     ↓
-CONTATTO        WhatsApp {{numero}}
+CONTATTO        WhatsApp 329 690 4627
     ↓
 ORDINE          preventivo, produzione, spedizione
     ↓
@@ -112,6 +112,6 @@ CONTENUTO       con il consenso del cliente, l'ordine diventa un episodio di Ser
 ## 6. Da completare prima di attivare
 
 - [ ] `{{url simulatore}}`, `{{url generatore STL}}`
-- [ ] `{{numero WhatsApp}}` e link wa.me
+- [ ] `329 690 4627` e link wa.me
 - [ ] `{{link prenotazione demo}}` (anche solo WhatsApp, se non avete un calendario online)
 - [ ] Scelta strumento di automazione e test con un account secondario prima di pubblicare

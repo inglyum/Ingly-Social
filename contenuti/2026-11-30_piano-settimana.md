@@ -130,10 +130,8 @@ Per questo, prima di ordinare, puoi caricare la tua foto nel simulatore su ingly
 
 Se il risultato ti convince, la realizziamo nel nostro laboratorio di Palermo, con precisione di 0,01 mm. Spediamo in tutta Italia.
 
-Per arrivare in tempo per Natale, l'ultimo giorno utile per ordinare è il {{data}}.
-
 Hai una foto e non sai se va bene? Mandacela.
-Su WhatsApp al {{numero WhatsApp}}: ti diciamo sinceramente come verrà, con tempi e preventivo.
+Su WhatsApp al 329 690 4627: ti diciamo sinceramente come verrà, con tempi e preventivo.
 ```
 
 ### FACEBOOK: gruppi locali (Palermo, genitori, mamme e papà)
@@ -145,9 +143,9 @@ Un consiglio per chi sta pensando di regalare una foto incisa alla maestra o ai 
 
 Nel nostro laboratorio a Palermo incidiamo foto anche su ardesia, e il punto critico è quasi sempre il contrasto. Le foto scattate in controluce o in ambienti bui, una volta incise, perdono i volti. Il laser lavora con precisione di 0,01 mm, quindi il dettaglio c'è: è il contrasto che manca. Meglio una foto con luce uniforme, anche se sul telefono sembra meno bella.
 
-Se volete controllare la vostra prima di decidere, sul nostro sito inglydesign.it c'è un simulatore che mostra l'anteprima incisa. E se avete un dubbio su una foto precisa, scrivetemi su WhatsApp al {{numero WhatsApp}}: vi dico com'è, anche se poi non ordinate da noi.
+Se volete controllare la vostra prima di decidere, sul nostro sito inglydesign.it c'è un simulatore che mostra l'anteprima incisa. E se avete un dubbio su una foto precisa, scrivetemi su WhatsApp al 329 690 4627: vi dico com'è, anche se poi non ordinate da noi.
 
-{{nome}}, INGLY DESIGN
+Ingly Design
 ```
 
 ### FACEBOOK: gruppi maker e laser
@@ -159,9 +157,9 @@ Noi partiamo sempre dal contrasto. Una foto scura, anche se nitida, sull'ardesia
 
 Sono curioso di sapere che dithering usate e su che macchina. Nel video sotto c'è il nostro processo dall'anteprima al pezzo finito.
 
-Se siete in zona Palermo e volete vederlo dal vivo, la nostra Demo Room xTool è aperta su appuntamento: scrivetemi su WhatsApp al {{numero WhatsApp}}.
+Se siete in zona Palermo e volete vederlo dal vivo, la nostra Demo Room xTool è aperta su appuntamento: scrivetemi su WhatsApp al 329 690 4627.
 
-{{nome}}, INGLY DESIGN
+Ingly Design
 ```
 
 ---
@@ -211,5 +209,5 @@ Per gli script completi delle idee 2-4, chiedili come per la 1: escono già nell
 - [ ] **Consenso per la foto di classe.** Ci sono volti di minori: serve il consenso scritto dei genitori, oppure una foto di adulti o dello staff in posa "da classe".
 - [ ] **Simulatore e ardesia.** Controlla che il simulatore mostri l'anteprima su ardesia. Se mostra un materiale diverso, cambia "ardesia" nello script.
 - [ ] **"Ritocchiamo il contrasto"** (TikTok): conferma che è davvero un passaggio che fate.
-- [ ] **Dati mancanti:** `{{numero WhatsApp}}`, `{{data}}` (ultimo giorno per ordinare a Natale), `{{link simulatore}}`, `{{nome}}` per la firma nei gruppi, `{{N}}` pezzi per l'idea 2, `{{ora}}` di pubblicazione.
+- [ ] **Dati mancanti:** `{{link simulatore}}`, `{{N}}` pezzi per l'idea 2, `{{ora}}` di pubblicazione.
 - [ ] **Idea 4:** conferma che volete parlare del PVC. È un'informazione di sicurezza vera e utile per i maker.

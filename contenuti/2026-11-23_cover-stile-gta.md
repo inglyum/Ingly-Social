@@ -138,9 +138,7 @@ Ecco un'idea che non si trova nei negozi: la sua foto trasformata in un'illustra
 
 La realizziamo nel nostro laboratorio in Sicilia e la spediamo in tutta Italia.
 
-Per arrivare in tempo per Natale, l'ultimo giorno utile per ordinare è il {{data}}.
-
-Mandaci la foto e il modello del telefono su WhatsApp al {{numero WhatsApp}}: ti rispondiamo con anteprima, tempi e preventivo.
+Mandaci la foto e il modello del telefono su WhatsApp al 329 690 4627: ti rispondiamo con anteprima, tempi e preventivo.
 ```
 
 ## FACEBOOK: gruppi locali e gamer
@@ -150,9 +148,9 @@ Per chi non sa cosa regalare a un fan di GTA (in casa ne abbiamo tutti almeno un
 
 Niente logo ufficiale: il protagonista è chi la riceve. La stampa è in UV con il rilievo, si sente al tatto. Le facciamo nel nostro laboratorio in Sicilia e spediamo ovunque.
 
-Se volete vedere un'anteprima con la vostra foto, scrivetemi su WhatsApp al {{numero WhatsApp}}.
+Se volete vedere un'anteprima con la vostra foto, scrivetemi su WhatsApp al 329 690 4627.
 
-{{nome}}, INGLY DESIGN
+Ingly Design
 ```
 
 ## FACEBOOK: gruppi maker e stampa UV
@@ -160,11 +158,11 @@ Se volete vedere un'anteprima con la vostra foto, scrivetemi su WhatsApp al {{nu
 ```
 Domanda per chi lavora con la stampa UV: come gestite il rilievo sui dettagli fini, tipo capelli e scritte?
 
-Noi su questa cover stile copertina da videogioco abbiamo alzato solo alcune zone (capelli, bordi dei riquadri, dettagli in primo piano) e lasciato piatto il cielo. Con la luce radente si vede la differenza, nella foto in macro si capisce bene.
+Noi su questa cover stile copertina da videogioco abbiamo alzato solo alcune zone (capelli, bordi dei riquadri, dettagli in primo piano) e lasciato piatto il cielo. Con la luce radente la differenza si vede subito. In macro, ancora di più.
 
-Curioso di sapere come lavorate voi: quanti passaggi, che vernice, che macchina.
+Voi come lavorate? Quanti passaggi, che vernice, che macchina.
 
-{{nome}}, INGLY DESIGN
+Ingly Design
 ```
 
 Il testo per i gruppi maker descrive la scelta delle zone in rilievo che si vede nelle foto. Va confermato con la tecnica reale prima di pubblicarlo.
@@ -180,7 +178,7 @@ Il testo per i gruppi maker descrive la scelta delle zone in rilievo che si vede
 
   ```
   Una foto diventa un'illustrazione stile copertina da videogioco, stampata in UV con il rilievo sulla cover del telefono. Fatta in Sicilia, spedita in tutta Italia.
-  Preventivo su WhatsApp: {{numero WhatsApp}}
+  Preventivo su WhatsApp: 329 690 4627
   ```
 
 **Idea long-form (8-12 min):** "Cover UV in rilievo: dal file alla cover finita". Il processo completo:

@@ -70,7 +70,7 @@ Una sola CTA per contenuto, scelta in base al pubblico.
   - XTOOL: info Demo Room Palermo / Sud Italia, consulenza, prenotazione demo;
   - PREVENTIVO: WhatsApp con messaggio precompilato.
   Testi completi in `~/.claude/ingly-growth/funnel-automation.md`.
-- **Where my link goes:** inglydesign.it (simulatore, generatore STL, preventivi). Preventivi anche su WhatsApp {{numero WhatsApp}}.
+- **Where my link goes:** inglydesign.it (simulatore, generatore STL, preventivi). Preventivi anche su WhatsApp 329 690 4627.
 
 ## Channels (Ingly)
 

@@ -35,7 +35,7 @@ Scrivi FOTO e prova la tua foto incisa 👇
 - **Link:** `{{url simulatore}}` su inglydesign.it, con UTM `?utm_source=instagram&utm_medium=bio`.
   - Se servono più link, usate i link multipli nativi di Instagram, nell'ordine: Simulatore foto incisa, Preventivo WhatsApp, Demo Room xTool.
 - **Categoria:** `{{da scegliere tra quelle disponibili, es. "Servizio di personalizzazione" o "Artigianato"}}`.
-- **Pulsanti contatto:** WhatsApp `{{numero}}`, indirizzo del laboratorio se volete visite.
+- **Pulsanti contatto:** WhatsApp 329 690 4627, indirizzo del laboratorio se volete visite.
 
 ### TikTok
 
@@ -65,7 +65,7 @@ Laser 0,01 mm / xTool Demo Room Sicilia
 Lab laser, UV, DTF e 3D in Sicilia. xTool Demo Room Sud Italia. Spediamo in tutta Italia.
 ```
 
-- **Pulsante principale:** "Invia messaggio WhatsApp" `{{numero}}`.
+- **Pulsante principale:** "Invia messaggio WhatsApp" 329 690 4627.
 - **Informazioni dettagliate:** il testo della bio YouTube qui sotto, senza la parte sulle serie.
 - **Indirizzo e orari:** laboratorio / Demo Room `{{indirizzo}}`, orari `{{orari}}`, "su appuntamento" per le demo.
 
@@ -86,7 +86,7 @@ D. Richieste assurde in laboratorio: le commissioni più strane arrivate su ingl
 
 Nuovi video ogni settimana, Shorts quasi ogni giorno.
 Prova la tua foto incisa: inglydesign.it
-Preventivi su WhatsApp: {{numero WhatsApp}}
+Preventivi su WhatsApp: 329 690 4627
 Demo xTool su appuntamento: {{link prenotazione}}
 ```
 

@@ -152,7 +152,9 @@ Alias già usati: LASER = FOTO; C1 e M2 = XTOOL (con la scheda del modello).
 - Spedizioni in tutta Italia, sede a Palermo.
 - Piccoli lotti B2B possibili.
 
-Da completare (non inventare finché mancano): `{{numero WhatsApp}}`, `{{tempi medi di produzione}}`, `{{numero di pezzi realizzati / clienti}}`, `{{recensioni reali}}`, `{{prezzi listino xTool}}`.
+WhatsApp: 329 690 4627 (https://wa.me/393296904627). Nessuna scadenza d'ordine da comunicare.
+
+Da completare (non inventare finché mancano): `{{tempi medi di produzione}}`, `{{numero di pezzi realizzati / clienti}}`, `{{recensioni reali}}`, `{{prezzi listino xTool}}`.
 
 ## 9. Canali attivi e declinazione automatica
 
@@ -184,7 +186,7 @@ Le quattro versioni partono dalla stessa idea e dallo stesso girato, ma non sono
 - **Pubblico:** locale (Palermo, Sicilia, con spedizioni in tutta Italia), famiglie, aziende B2B, gruppi di artigiani e maker.
 - **Tono:** più discorsivo e rassicurante. Frasi complete; si spiega chi siamo, dove siamo, come funziona l'ordine. Si può nominare Palermo e il quartiere/zona della Demo Room.
 - **CTA, una tra:**
-  - WhatsApp {{numero WhatsApp}};
+  - WhatsApp 329 690 4627;
   - preventivo su inglydesign.it;
   - visita in Demo Room su appuntamento.
 - **Mai la parola chiave DM su Facebook.**
