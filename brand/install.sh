@@ -21,3 +21,6 @@ put "$HERE/brand-voice-ingly.md"   "$DEST/brand-voice-ingly.md"
 put "$HERE/instagram/voice.md"     "$DEST/instagram/voice.md"
 put "$HERE/slop-it-ingly.json"     "$DEST/instagram/slop-it-ingly.json"
 put "$ROOT/CLAUDE.md"              "$DEST/CLAUDE.md"
+for f in master-strategy profile-optimization funnel-automation; do
+  put "$ROOT/growth/$f.md" "$DEST/ingly-growth/$f.md"
+done

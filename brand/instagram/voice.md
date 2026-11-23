@@ -10,7 +10,7 @@ Scrivi sempre in italiano.
 
 - **Name:** INGLY DESIGN
 - **Handle:** @ingly_design
-- **What I do, in one sentence:** Laboratorio di Palermo che unisce la cura artigianale alla precisione industriale (0,01 mm): incisione e taglio laser, stampa UV e DTF, stampa 3D e file digitali, più demo, formazione e assistenza ufficiale xTool.
+- **What I do, in one sentence:** Laboratorio in Sicilia (Palermo / San Cipirello) che unisce la cura artigianale alla precisione industriale (0,01 mm): incisione e taglio laser, stampa UV e DTF, stampa 3D e file digitali, più demo, formazione e assistenza ufficiale xTool.
 - **Who I am talking to:** uno solo per contenuto.
   1. **Privati** che cercano un regalo personalizzato che racconti qualcosa: maestre, eventi, cover, litofanie, mappe incise.
   2. **Aziende e professionisti** che hanno bisogno di targhe, gadget o personalizzazioni B2B anche in piccoli lotti.
@@ -64,18 +64,22 @@ Scrivi sempre in italiano.
 
 Una sola CTA per contenuto, scelta in base al pubblico.
 
-- **My keyword CTA, if I use one:** LASER (lavorazioni su misura), XTOOL (macchine e demo), C1 (macchina specifica). Le altre proposte sono nella sezione 7 di brand-voice-ingly.md.
-- **What the keyword sends them:** scheda, prezzo e video di prova della macchina, più il link per prenotare la demo.
+- **My keyword CTA, if I use one:** FOTO, XTOOL, PREVENTIVO (sono gli standard; LASER = FOTO, C1/M2 = XTOOL).
+- **What the keyword sends them:**
+  - FOTO: link al simulatore "Prova la tua foto incisa" + generatore STL di litofanie;
+  - XTOOL: info Demo Room Palermo / Sud Italia, consulenza, prenotazione demo;
+  - PREVENTIVO: WhatsApp con messaggio precompilato.
+  Testi completi in `~/.claude/ingly-growth/funnel-automation.md`.
 - **Where my link goes:** inglydesign.it (simulatore, generatore STL, preventivi). Preventivi anche su WhatsApp {{numero WhatsApp}}.
 
 ## Channels (Ingly)
 
-Ogni Reel scritto con /ig-reel viene subito declinato in tre versioni, nella sezione 9 di brand-voice-ingly.md:
+Ogni Reel scritto con /ig-reel viene subito declinato in quattro versioni, nella sezione 9 di brand-voice-ingly.md:
 
 - **INSTAGRAM:**
   - script Reel 15-45 s, tono visivo e ispirazionale;
   - caption con 3-5 hashtag specifici;
-  - CTA con parola chiave DM ("Scrivi LASER", "Scrivi XTOOL") o link in bio.
+  - CTA con parola chiave DM ("Scrivi FOTO", "Scrivi XTOOL", "Scrivi PREVENTIVO") o link in bio.
 - **TIKTOK:**
   - script più veloce, 15-40 s, azione al frame 1;
   - testo a schermo per ogni beat;
@@ -84,6 +88,22 @@ Ogni Reel scritto con /ig-reel viene subito declinato in tre versioni, nella sez
   - copy per la pagina, discorsivo e rassicurante, con pubblico locale (Palermo, Sicilia) e spedizioni in tutta Italia;
   - copy per i gruppi locali e maker, in prima persona, prima il valore e poi l'invito;
   - CTA verso WhatsApp, preventivo su inglydesign.it o Demo Room su appuntamento.
+- **YOUTUBE:**
+  - Short 15-60 s dallo stesso girato del TikTok, senza watermark, titolo cercabile con "Serie X Ep. NN";
+  - long-form 8-15 min solo se il tema lo regge (tutorial xTool, compilation, giornata in lab);
+  - CTA: link in descrizione e commento fissato.
+
+## Growth 50K (Ingly)
+
+Obiettivo: 50.000+ follower su Instagram, Facebook, TikTok e YouTube. Strategia: `~/.claude/ingly-growth/master-strategy.md`.
+
+- **Positioning:** il laboratorio creativo in Sicilia (Palermo / San Cipirello) che trasforma qualsiasi idea o foto in un oggetto reale con precisione industriale. È xTool Squad e Demo Room per il Sud Italia. Frase guida: "Da una foto a un oggetto vero."
+- **Every Reel belongs to a series**, con cartello "Serie X, Ep. NN" nei primi 2 s e aggancio all'episodio successivo:
+  - **A. Da una foto a oggetto reale:** regali e mass market. Foto dei follower su ardesia, litofania, cover UV. Keyword FOTO. Serve il consenso per ogni foto.
+  - **B. Cosa succede se lo metto sotto il laser?** Viralità e curiosity gap. Test su oggetti insoliti, sfide dai commenti. Mai PVC/vinile, policarbonato, ABS, HDPE, polistirolo, fibra di vetro, carbonio con resine.
+  - **C. Da idea a business con xTool:** maker e B2B. Prodotti vendibili con C1/M2, errori, costi reali solo se misurati. Keyword XTOOL.
+  - **D. Clienti impossibili / Richieste assurde in laboratorio:** storytelling. Solo richieste vere, cliente mai riconoscibile senza consenso, mai deriso. Keyword PREVENTIVO.
+- **Profile:** bio, highlights e 3 post fissati in `~/.claude/ingly-growth/profile-optimization.md`.
 
 ## Writing rules (Ingly)
 

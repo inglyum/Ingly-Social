@@ -21,6 +21,7 @@ Scrivi sempre in italiano.
   - laboratorio di personalizzazione: incisione e taglio laser, stampa UV e DTF, stampa 3D, file digitali;
   - host ufficiale xTool Squad e Demo Room Host.
 - **Settore:** personalizzazione artigianale e macchine laser/maker, Italia, con base a Palermo.
+- **Serie numerate:** A Da una foto a oggetto reale, B Cosa succede se lo metto sotto il laser?, C Da idea a business con xTool, D Richieste assurde in laboratorio.
 - **Posizionamento:**
   - cura artigianale con precisione industriale (0,01 mm);
   - punto di riferimento per demo e assistenza xTool in Sicilia e Sud Italia;
@@ -75,15 +76,16 @@ Un pubblico per contenuto.
 
 ## 5. Platform configuration
 
-Canali attivi: solo Instagram, Facebook e TikTok. LinkedIn e Threads non sono attivi.
+Canali attivi: Instagram, Facebook, TikTok e YouTube (Shorts + long-form). Obiettivo: 50.000+ follower totali; strategia in growth/master-strategy.md. LinkedIn e Threads non sono attivi.
 
-Ogni contenuto va declinato in tre versioni (IG, TikTok, FB). Le regole complete sono nella sezione 9 di brand/brand-voice-ingly.md.
+Ogni contenuto va declinato in quattro versioni (IG, TikTok, FB, YouTube). Le regole complete sono nella sezione 9 di brand/brand-voice-ingly.md.
 
 | Piattaforma | Formati | Tono | CTA | Pubblico | BlackTwist |
 |---|---|---|---|---|---|
-| Instagram @ingly_design | Reel, Caroselli | visivo, ispirazionale | parola chiave in DM (LASER, XTOOL) o link in bio | 1, 3 | no |
+| Instagram @ingly_design | Reel, Caroselli | visivo, ispirazionale | parola chiave in DM (FOTO, XTOOL, PREVENTIVO) o link in bio | 1, 3 | no |
 | Facebook (pagina + gruppi) | post, Reel | discorsivo, rassicurante, locale | WhatsApp, preventivo su inglydesign.it, Demo Room su appuntamento | 1, 2, 3 (locale) | no |
 | TikTok | video 15-40 s | alto ritmo, diretto | domanda nei commenti, parte 2 | 1, 3 | no |
+| YouTube | Shorts 15-60 s, long-form 8-15 min | come IG ma più spiegato, cercabile | link in descrizione / commento fissato | 1, 3 (long-form: 3) | no |
 
 ## 6. Content formats
 

@@ -1,6 +1,6 @@
 ---
 brand: INGLY DESIGN
-last_updated: 2026-11-23
+last_updated: 2026-11-23 (rev. growth 50K)
 uso: Fonte unica dell'identità di brand. Ogni skill che genera contenuti (ig-*, *-sms, o richieste libere) la legge prima di scrivere.
 ---
 
@@ -11,9 +11,11 @@ uso: Fonte unica dell'identità di brand. Ogni skill che genera contenuti (ig-*,
 - **Brand:** INGLY DESIGN
 - **Sito:** inglydesign.it
 - **Instagram:** @ingly_design
-- **Sede:** Palermo
+- **Sede:** laboratorio in Sicilia, tra Palermo e San Cipirello (PA). {{confermare indirizzo di laboratorio e Demo Room}}
 - **Copertura:** ordini e spedizioni in tutta Italia. Per Sicilia e Sud Italia siamo il punto di riferimento per assistenza e demo dal vivo.
-- **In una frase:** laboratorio di personalizzazione che unisce la cura artigianale alla precisione industriale (0,01 mm).
+- **In una frase:** il laboratorio creativo in Sicilia che trasforma qualsiasi idea o foto in un oggetto reale, con precisione industriale (laser 0,01 mm, UV, DTF, 3D). Punto di riferimento ufficiale xTool Squad e Demo Room per il Sud Italia.
+- **Frase guida:** "Da una foto a un oggetto vero."
+- **Obiettivo di crescita:** 50.000+ follower totali su Instagram, Facebook, TikTok e YouTube. Strategia completa in `~/.claude/ingly-growth/master-strategy.md`.
 
 ### Cosa facciamo
 
@@ -72,9 +74,9 @@ Per i privati si apre con l'emozione e si chiude con la prova. Per maker e azien
 
 ## 4. Call to action
 
-Una sola CTA per contenuto e per canale (vedi sezione 9: Instagram = parola chiave o link in bio, Facebook = WhatsApp, sito o Demo Room, TikTok = domanda nei commenti). Sempre orientata al dialogo o alla prova, mai "acquista ora".
+Una sola CTA per contenuto e per canale (vedi sezione 9: Instagram = parola chiave FOTO/XTOOL/PREVENTIVO o link in bio, Facebook = WhatsApp, sito o Demo Room, TikTok = domanda nei commenti, YouTube = link in descrizione o commento fissato). Sempre orientata al dialogo o alla prova, mai "acquista ora".
 
-1. **Parola chiave in commento o DM:** "Scrivi C1 in DM e ti mandiamo scheda, prezzo e video di prova."
+1. **Parola chiave in commento o DM (solo Instagram):** "Scrivi FOTO", "Scrivi XTOOL", "Scrivi PREVENTIVO".
    - Una parola, facile da dire, senza spazi.
    - Le parole chiave proposte sono nella sezione 7.
 2. **Prova sul sito:** "Carica la tua foto nel simulatore su inglydesign.it e guarda come viene incisa", oppure "Crea la tua litofania STL gratis sul sito".
@@ -126,22 +128,17 @@ python3 ~/.claude/skills/ig-human/detect.py   testo.txt --lexicon ~/.claude/inst
 4. **xTool in pratica.** Demo, confronti d'uso, settaggi, materiali, tutorial, assistenza e riparazione. Pubblico: maker.
 5. **Provalo tu.** Simulatore foto incisa, generatore litofanie STL, preventivo rapido. Pubblico: tutti, come CTA.
 
-## 7. Parole chiave per DM (proposte, da confermare)
+## 7. Parole chiave standard (commento -> DM)
 
-Una sola parola per campagna. Prima di usarne una, assicurati che la risposta automatica o manuale sia pronta.
+Le parole chiave valgono solo su Instagram. Su Facebook la CTA è WhatsApp, sito o Demo Room; su TikTok è una domanda nei commenti; su YouTube il link in descrizione o nel commento fissato. Messaggi automatici e strumenti: `~/.claude/ingly-growth/funnel-automation.md`.
 
-Le parole chiave valgono solo su Instagram. Su Facebook la CTA è WhatsApp, sito o Demo Room; su TikTok è una domanda nei commenti.
+| Parola | Cosa riceve chi la scrive | Pubblico |
+|--------|---------------------------|----------|
+| **FOTO** | Link al simulatore "Prova la tua foto incisa" + generatore STL di litofanie | Privati |
+| **XTOOL** | Info Demo Room Palermo / Sud Italia, consulenza, assistenza, prenotazione demo | Maker, aziende |
+| **PREVENTIVO** | Contatto diretto WhatsApp con messaggio precompilato | Aziende, privati |
 
-| Parola | Cosa riceve chi la scrive |
-|--------|---------------------------|
-| LASER | Info su lavorazioni laser su misura + link al simulatore e al preventivo |
-| XTOOL | Info sulle macchine xTool, consulenza e link per prenotare la demo a Palermo |
-| C1 | Scheda xTool C1, prezzo, video di prova, link per prenotare la demo |
-| M2 | Scheda xTool M2, prezzo, video di prova, link per prenotare la demo |
-| DEMO | Disponibilità della Demo Room a Palermo |
-| LITO | Link al generatore gratuito di litofanie STL |
-| TARGA | Richiesta preventivo targhe aziendali |
-| REGALO | Idee regalo personalizzate e link al simulatore |
+Alias già usati: LASER = FOTO; C1 e M2 = XTOOL (con la scheda del modello).
 
 ## 8. Fatti utilizzabili (solo questi, finché non se ne aggiungono altri)
 
@@ -159,15 +156,16 @@ Da completare (non inventare finché mancano): `{{numero WhatsApp}}`, `{{tempi m
 
 ## 9. Canali attivi e declinazione automatica
 
-I canali attivi sono tre: **Instagram, Facebook, TikTok**. LinkedIn e Threads non sono attivi.
+I canali attivi sono quattro: **Instagram, Facebook, TikTok, YouTube (Shorts + long-form)**. LinkedIn e Threads non sono attivi.
 
-**Regola di output.** Ogni richiesta di contenuto, anche se nomina un solo canale, produce automaticamente tre versioni nello stesso ordine:
+**Regola di output.** Ogni richiesta di contenuto, anche se nomina un solo canale, produce automaticamente quattro versioni nello stesso ordine:
 
 1. INSTAGRAM
 2. TIKTOK
 3. FACEBOOK
+4. YOUTUBE: sempre lo Short; il long-form solo se il tema regge 8-15 minuti (tipicamente Serie C), altrimenti un'idea di long-form in una riga
 
-Le tre versioni partono dalla stessa idea e dallo stesso girato, ma non sono copia-incolla: cambiano hook, ritmo, testo e CTA. Fa eccezione solo una richiesta esplicita tipo "solo Instagram".
+Le quattro versioni partono dalla stessa idea e dallo stesso girato, ma non sono copia-incolla: cambiano hook, ritmo, testo e CTA. Fa eccezione solo una richiesta esplicita tipo "solo Instagram".
 
 ### Instagram (@ingly_design)
 
@@ -209,10 +207,35 @@ Le tre versioni partono dalla stessa idea e dallo stesso girato, ma non sono cop
 - **Caption:** breve (1-2 righe) con una domanda che porti ai commenti e 3-4 hashtag.
 - **CTA:** domanda nei commenti ("Su che materiale lo provo?") o invito a seguire per la parte 2. Si può rispondere ai commenti con un video. Niente link.
 
+### YouTube (Shorts + long-form)
+
+- **Shorts (15-60 s):**
+  - stesso girato del TikTok, senza watermark;
+  - titolo con parole di ricerca (es. "Foto incisa su ardesia | Serie A Ep. 03");
+  - collegare il video lungo correlato quando c'è.
+- **Long-form (8-15 min):** tutorial xTool, settaggi, costi reali misurati, confronti d'uso, compilation di Serie A e B, "una giornata in laboratorio".
+  - Titolo: chiaro e cercabile, prima la parola chiave.
+  - Miniatura: pezzo finito + 3-4 parole.
+  - Capitoli in descrizione.
+- **Tono:** come Instagram ma più spiegato. Su YouTube la gente cerca: rispondere alla domanda nei primi 30 secondi del long-form.
+- **CTA:** link in descrizione e nel commento fissato (simulatore, WhatsApp, prenotazione demo). Niente parole chiave DM: YouTube non ha DM.
+
+### Serie numerate
+
+Ogni contenuto appartiene, se possibile, a una delle 4 serie della master strategy. Ogni episodio ha il cartello "Serie X, Ep. NN" nei primi 2 secondi e chiude agganciando il successivo.
+
+- **A.** Da una foto a oggetto reale
+- **B.** Cosa succede se lo metto sotto il laser?
+- **C.** Da idea a business con xTool
+- **D.** Clienti impossibili / Richieste assurde in laboratorio
+
+Sicurezza Serie B: mai PVC e vinile, policarbonato, ABS, HDPE, polistirolo espanso, fibra di vetro, carbonio con resine.
+
 ### Pubblicazione
 
 - **Instagram e Facebook:** si programmano insieme da Meta Business Suite, adattando caption e CTA per ciascuno.
 - **TikTok:** si pubblica dall'app nativa, per usare suoni, testo e funzioni native.
+- **YouTube:** Shorts e long-form da YouTube Studio (programmabili).
 
 ## 10. Off limits
 
