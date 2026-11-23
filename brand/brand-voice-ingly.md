@@ -72,7 +72,7 @@ Per i privati si apre con l'emozione e si chiude con la prova. Per maker e azien
 
 ## 4. Call to action
 
-Una sola CTA per contenuto. Sempre orientata al dialogo o alla prova, mai "acquista ora".
+Una sola CTA per contenuto e per canale (vedi sezione 9: Instagram = parola chiave o link in bio, Facebook = WhatsApp, sito o Demo Room, TikTok = domanda nei commenti). Sempre orientata al dialogo o alla prova, mai "acquista ora".
 
 1. **Parola chiave in commento o DM:** "Scrivi C1 in DM e ti mandiamo scheda, prezzo e video di prova."
    - Una parola, facile da dire, senza spazi.
@@ -130,8 +130,12 @@ python3 ~/.claude/skills/ig-human/detect.py   testo.txt --lexicon ~/.claude/inst
 
 Una sola parola per campagna. Prima di usarne una, assicurati che la risposta automatica o manuale sia pronta.
 
+Le parole chiave valgono solo su Instagram. Su Facebook la CTA è WhatsApp, sito o Demo Room; su TikTok è una domanda nei commenti.
+
 | Parola | Cosa riceve chi la scrive |
 |--------|---------------------------|
+| LASER | Info su lavorazioni laser su misura + link al simulatore e al preventivo |
+| XTOOL | Info sulle macchine xTool, consulenza e link per prenotare la demo a Palermo |
 | C1 | Scheda xTool C1, prezzo, video di prova, link per prenotare la demo |
 | M2 | Scheda xTool M2, prezzo, video di prova, link per prenotare la demo |
 | DEMO | Disponibilità della Demo Room a Palermo |
@@ -153,7 +157,64 @@ Una sola parola per campagna. Prima di usarne una, assicurati che la risposta au
 
 Da completare (non inventare finché mancano): `{{numero WhatsApp}}`, `{{tempi medi di produzione}}`, `{{numero di pezzi realizzati / clienti}}`, `{{recensioni reali}}`, `{{prezzi listino xTool}}`.
 
-## 9. Off limits
+## 9. Canali attivi e declinazione automatica
+
+I canali attivi sono tre: **Instagram, Facebook, TikTok**. LinkedIn e Threads non sono attivi.
+
+**Regola di output.** Ogni richiesta di contenuto, anche se nomina un solo canale, produce automaticamente tre versioni nello stesso ordine:
+
+1. INSTAGRAM
+2. TIKTOK
+3. FACEBOOK
+
+Le tre versioni partono dalla stessa idea e dallo stesso girato, ma non sono copia-incolla: cambiano hook, ritmo, testo e CTA. Fa eccezione solo una richiesta esplicita tipo "solo Instagram".
+
+### Instagram (@ingly_design)
+
+- **Formati:** Reel e Caroselli.
+- **Tono:** visivo e ispirazionale. Il pezzo finito e la storia dietro il pezzo; l'emozione apre, il dettaglio tecnico conferma.
+- **Durata Reel:** 15-45 s.
+- **Caption:**
+  - prima riga autosufficiente;
+  - 3-5 hashtag specifici;
+  - parole di ricerca nel testo (es. "incisione laser Palermo", "litofania personalizzata").
+- **CTA:** commento o DM con parola chiave ("Scrivi LASER", "Scrivi XTOOL", "Scrivi C1"...), oppure link in bio.
+
+### Facebook (pagina + gruppi)
+
+- **Formati:** post con foto o video, Reel.
+- **Pubblico:** locale (Palermo, Sicilia, con spedizioni in tutta Italia), famiglie, aziende B2B, gruppi di artigiani e maker.
+- **Tono:** più discorsivo e rassicurante. Frasi complete; si spiega chi siamo, dove siamo, come funziona l'ordine. Si può nominare Palermo e il quartiere/zona della Demo Room.
+- **CTA, una tra:**
+  - WhatsApp {{numero WhatsApp}};
+  - preventivo su inglydesign.it;
+  - visita in Demo Room su appuntamento.
+- **Mai la parola chiave DM su Facebook.**
+- **Versione per i gruppi locali e maker:**
+  - prima persona, tono da membro della comunità e non da pubblicità;
+  - niente hashtag, niente link nella prima riga;
+  - porta valore (un consiglio, un test, una risposta) prima dell'invito.
+  - Rispettare sempre il regolamento del gruppo sull'autopromozione.
+
+### TikTok
+
+- **Durata:** 15-40 s, alto ritmo.
+- **Taglio diretto:** l'azione è già in corso al frame 1. Niente saluti, niente logo, niente introduzioni.
+- **Focus sulla soddisfazione visiva:**
+  - laser in azione;
+  - prima/dopo;
+  - test di materiali;
+  - errori da evitare con le macchine laser.
+- **Testo a schermo:** obbligatorio, cambio inquadratura ogni 1-3 s.
+- **Caption:** breve (1-2 righe) con una domanda che porti ai commenti e 3-4 hashtag.
+- **CTA:** domanda nei commenti ("Su che materiale lo provo?") o invito a seguire per la parte 2. Si può rispondere ai commenti con un video. Niente link.
+
+### Pubblicazione
+
+- **Instagram e Facebook:** si programmano insieme da Meta Business Suite, adattando caption e CTA per ciascuno.
+- **TikTok:** si pubblica dall'app nativa, per usare suoni, testo e funzioni native.
+
+## 10. Off limits
 
 - Confronti denigratori con altri laboratori o rivenditori.
 - Promesse di tempi o prezzi non confermati.

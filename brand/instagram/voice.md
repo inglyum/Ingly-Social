@@ -64,9 +64,26 @@ Scrivi sempre in italiano.
 
 Una sola CTA per contenuto, scelta in base al pubblico.
 
-- **My keyword CTA, if I use one:** C1 per le macchine. Le altre proposte (M2, DEMO, LITO, TARGA, REGALO) sono nella sezione 7 di brand-voice-ingly.md.
+- **My keyword CTA, if I use one:** LASER (lavorazioni su misura), XTOOL (macchine e demo), C1 (macchina specifica). Le altre proposte sono nella sezione 7 di brand-voice-ingly.md.
 - **What the keyword sends them:** scheda, prezzo e video di prova della macchina, più il link per prenotare la demo.
 - **Where my link goes:** inglydesign.it (simulatore, generatore STL, preventivi). Preventivi anche su WhatsApp {{numero WhatsApp}}.
+
+## Channels (Ingly)
+
+Ogni Reel scritto con /ig-reel viene subito declinato in tre versioni, nella sezione 9 di brand-voice-ingly.md:
+
+- **INSTAGRAM:**
+  - script Reel 15-45 s, tono visivo e ispirazionale;
+  - caption con 3-5 hashtag specifici;
+  - CTA con parola chiave DM ("Scrivi LASER", "Scrivi XTOOL") o link in bio.
+- **TIKTOK:**
+  - script più veloce, 15-40 s, azione al frame 1;
+  - testo a schermo per ogni beat;
+  - caption di 1-2 righe con una domanda per i commenti. Niente link, niente parola chiave DM.
+- **FACEBOOK:**
+  - copy per la pagina, discorsivo e rassicurante, con pubblico locale (Palermo, Sicilia) e spedizioni in tutta Italia;
+  - copy per i gruppi locali e maker, in prima persona, prima il valore e poi l'invito;
+  - CTA verso WhatsApp, preventivo su inglydesign.it o Demo Room su appuntamento.
 
 ## Writing rules (Ingly)
 

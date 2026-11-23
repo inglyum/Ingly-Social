@@ -75,12 +75,15 @@ Un pubblico per contenuto.
 
 ## 5. Platform configuration
 
-| Piattaforma | Obiettivo | Pubblico principale | Frequenza attuale | Frequenza obiettivo | BlackTwist |
+Canali attivi: solo Instagram, Facebook e TikTok. LinkedIn e Threads non sono attivi.
+
+Ogni contenuto va declinato in tre versioni (IG, TikTok, FB). Le regole complete sono nella sezione 9 di brand/brand-voice-ingly.md.
+
+| Piattaforma | Formati | Tono | CTA | Pubblico | BlackTwist |
 |---|---|---|---|---|---|
-| Instagram | lead e vendite (privati + maker), community | 1, 3 | {{}} | {{}} | no |
-| TikTok | visibilità, scoperta del processo | 1, 3 | {{}} | {{}} | no |
-| LinkedIn | lead B2B | 2 | {{}} | {{}} | no |
-| Threads | community maker, conversazione | 3 | {{}} | {{}} | no |
+| Instagram @ingly_design | Reel, Caroselli | visivo, ispirazionale | parola chiave in DM (LASER, XTOOL) o link in bio | 1, 3 | no |
+| Facebook (pagina + gruppi) | post, Reel | discorsivo, rassicurante, locale | WhatsApp, preventivo su inglydesign.it, Demo Room su appuntamento | 1, 2, 3 (locale) | no |
+| TikTok | video 15-40 s | alto ritmo, diretto | domanda nei commenti, parte 2 | 1, 3 | no |
 
 ## 6. Content formats
 

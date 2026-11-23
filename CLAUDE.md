@@ -10,6 +10,12 @@ Vale per caption, reel, caroselli, stories, DM, risposte, post LinkedIn/Threads/
 2. Le skill `/ig-*` leggono anche `~/.claude/instagram/voice.md`. Le skill `*-sms` leggono `.agents/social-media-context-sms.md`. Sono derivati del file di brand e vanno tenuti allineati.
 3. Scrivi sempre in italiano. Le skill hanno istruzioni ed esempi in inglese, l'output no.
 
+## Ogni contenuto esce in tre versioni
+
+Ogni richiesta di contenuto produce automaticamente, nello stesso output, tre versioni: **INSTAGRAM**, **TIKTOK** e **FACEBOOK** (pagina + gruppi). Le regole di ogni canale sono nella sezione 9 del file di brand. Fa eccezione solo una richiesta esplicita per un singolo canale.
+
+In fondo all'output va indicato l'ordine di pubblicazione: Instagram e Facebook si programmano insieme da Meta Business Suite, TikTok si pubblica in nativo dall'app.
+
 ## Regole non negoziabili
 
 - **Un pubblico per contenuto:** privati, aziende o maker.
